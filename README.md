@@ -1,2 +1,2 @@
 # hello-world
-Hello world of course.
+Hello world.  Naturally.
